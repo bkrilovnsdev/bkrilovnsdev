@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Boris Kirilov and you can reach me out borishristovkirilov194@outlook.com !
+# 👋 Hi, I'm Boris Kirilov!
 
 ### 🚀 NetSuite Technical Consultant | SuiteScript Developer | AI & MCP Developer
 
@@ -81,9 +81,4 @@ Currently exploring **AI-powered ERP solutions, Model Context Protocol (MCP), an
 
 ---
 
-## 🧰 Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-b
+📧 Email: borishristovkirilov194@outlook.com 
